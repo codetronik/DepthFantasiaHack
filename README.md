@@ -1,5 +1,5 @@
-# 뎁스판타지아 핵
+# Depth Fantasia Hack
 
-이동속도 증가 (필드에서만 사용 가능)
+Increase Movement Speed (Only available in fields)
 <br>
-던전 안 순간이동
+Teleportation in Dungeon
